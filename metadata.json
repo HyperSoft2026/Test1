@@ -1,0 +1,8 @@
+{
+  "name": "OneBot",
+  "description": "OneBot by HyperSoft - Complete Multi-Guild Discord Bot Dashboard & Management System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
